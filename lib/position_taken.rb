@@ -8,4 +8,4 @@ def position_taken?(board, index)
   end
 end
 
-position_taken?(board, index)
+position_taken?(board, 3)
